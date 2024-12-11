@@ -49,7 +49,7 @@
   font-size: 15px;
 }
 .container-navigation ul li:hover {
-  transform: rotate(10deg);
+  transform: translateY(-7px);
   transition: 1s;
 }
 /* the header ends  */
